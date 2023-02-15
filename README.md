@@ -1,13 +1,17 @@
-![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=703ee5&text=Jimin's%20GitHub%20&height=150&fontSize=60&desc=Welcome!&descAlignY=75&descAlign=60)
+![Waving](https://capsule-render.vercel.app/api?type=Waving&color=auto&text=Jimin's%20GitHub%20&height=300&fontSize=60&desc=Welcome!&descAlignY=75&descAlign=60)
 
+    
 <br>
 
 <p align="center">
-    <Strong>☁️Portfolio List☁️</Strong><br><br>
+    <Strong>☁️Portfolio List☁️</Strong><br>
     <a href="https://velog.io/@mini_mouse_" target="_blank"><img src="https://img.shields.io/badge/Velog-000000?style=flat-square&logo=Velog&logoColor=20C997"/></a>
     <a href="https://blog.naver.com/1229jimin" target="_blank"><img src="https://img.shields.io/badge/Naver-000000?style=flat-square&logo=Notion&logoColor=03C75A"/></a>
     <br>
    <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDingadung&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
+<br><br>
+<Strong>🍒My SNS🍒</Strong><br>
+    <a href="https://www.instagram.com/?hl=ko" target="_blank"><img src="https://img.shields.io/badge/Instagram-000000?style=flat-square&logo=Instagram&logoColor=E4405F"/></a>
 <br><br>
 <Strong>📧Email📧</Strong><br>1229jimin@naver.com<br>
 
@@ -73,6 +77,7 @@
   <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
+  <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge&logo=Thymeleaf&logoColor=white">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=white">
   <img src="https://img.shields.io/badge/JSP-007396?style=for-the-badge&logo=jsp&logoColor=white">
   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=R&logoColor=white">
