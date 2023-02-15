@@ -12,6 +12,7 @@
 <br><br>
 <Strong>🍒My SNS🍒</Strong><br>
     <a href="https://www.instagram.com/?hl=ko" target="_blank"><img src="https://img.shields.io/badge/Instagram-000000?style=flat-square&logo=Instagram&logoColor=E4405F"/></a>
+    <a href="https://blog.naver.com/1229jimin" target="_blank"><img src="https://img.shields.io/badge/Naver-000000?style=flat-square&logo=Notion&logoColor=03C75A"/></a>
 <br><br>
 <Strong>📧Email📧</Strong><br>1229jimin@naver.com<br>
 
