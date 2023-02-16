@@ -49,7 +49,7 @@
     💡Tools <br>
     <img src="https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=IntelliJIDEA&logoColor=white">
     <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=PyCharm&logoColor=white">
-    <img src="https://img.shields.io/badge/VisualStudioCode-007ACC?style=for-the-badge&logo=VisualStudioCode
+    <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=Visual Studio Code
 &logoColor=white">
     <img src="https://img.shields.io/badge/VisualStudio-5C2D91?style=for-the-badge&logo=VisualStudio&logoColor=white">
 </p>
