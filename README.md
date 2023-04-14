@@ -5,10 +5,6 @@
 <p>
     <Strong>☁️기술 블로그☁️</Strong><br>
     <a href="https://velog.io/@mini_mouse_" target="_blank"><img src="https://img.shields.io/badge/Velog-000000?style=flat-square&logo=Velog&logoColor=20C997"/></a>
-    <br>
-    <br>
-<Strong>🍒SNS🍒</Strong><br>
-    <a href="https://www.instagram.com/?hl=ko" target="_blank"><img src="https://img.shields.io/badge/Instagram-000000?style=flat-square&logo=Instagram&logoColor=E4405F"/></a>
 <br><br>
 <Strong>📧Email📧</Strong><br>1229jimin@naver.com<br>
 </p>
