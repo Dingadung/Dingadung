@@ -66,6 +66,6 @@
 <div>
     
 ![Dingadung's github stats](https://github-readme-stats.vercel.app/api?username=Dingadung&show_icons=true)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=1229jimin)](https://solved.ac/1229jimin/)
+<!-- [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=1229jimin)](https://solved.ac/1229jimin/) -->
     
 </div>
