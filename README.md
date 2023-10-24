@@ -3,7 +3,7 @@
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDingadung&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 <br>
 <p>
-    <Strong>☁️기술 블로그☁️</Strong><br>
+    <Strong>☁️블로그☁️</Strong><br>
     <a href="https://velog.io/@mini_mouse_" target="_blank"><img src="https://img.shields.io/badge/Velog-000000?style=flat-square&logo=Velog&logoColor=20C997"/></a>
 <br><br>
 <Strong>📧Email📧</Strong><br>1229jimin@naver.com<br>
@@ -13,7 +13,7 @@
 
 ## 활동
 - 이화여자고등학교 졸업
-- 현재 세종대학교 컴퓨터공학과 4학년 1학기 재학
+- 세종대학교 컴퓨터공학과 졸업 예정
 - 2019~ 인터페이스(학교 중앙동아리): 안드로이드 스튜디오 학습, C언어 스터디
 - 2021 KB국민은행X사피엔스4.0서포터즈(중학생 대상 코딩 교육)
 - 2021 UMC(대학연합동아리): 안드로이드 애플리케이션 개발
@@ -23,8 +23,8 @@
 - 2022 비트캠프 AWS 활용 JAVA 웹 프로그래밍 개발자 양성과정 이수
 - 2022 SQL 스터디, 운영체제 스터디, 영어회화 스터디
 - 2022 SQLD 자격증 취득
-- 2023~ 세종대학교 오픈소스 동아리 SOS
-- 2023~ [멋쟁이사자처럼(대학연합동아리)](https://devveb.notion.site/_-_-A-d4dfaeef106243e5acb20f2a2491c41c) - 백앤드 트랙 
+- 2023 세종대학교 오픈소스 동아리 SOS
+- 2023 [멋쟁이사자처럼(대학연합동아리)](https://devveb.notion.site/_-_-A-d4dfaeef106243e5acb20f2a2491c41c) - 백앤드 트랙 
 - 2023 스프링 스터디
 <!-- - 전체 학점: 4.01 / 4.5 | 전공학점 4.38 -->
 
